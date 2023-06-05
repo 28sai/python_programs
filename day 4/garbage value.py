@@ -1,0 +1,1 @@
+#first memoru address location and reciever memory address location is callled garbage value
